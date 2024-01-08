@@ -1,5 +1,5 @@
 # LandingPage_1
-- Made with Html & Css
+- UI/UX Design
 
 ## Deployed:
 - This page has been deployed at : https://master--luminous-salamander-7f1d0d.netlify.app/
