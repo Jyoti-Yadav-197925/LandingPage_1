@@ -2,4 +2,4 @@
 - UI/UX Design
 
 ## Deployed:
-- This page has been deployed at : https://master--luminous-salamander-7f1d0d.netlify.app/
+- This page has been deployed at : [Link](url: https://inspiring-phoenix-79432a.netlify.app/)
